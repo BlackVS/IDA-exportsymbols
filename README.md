@@ -11,3 +11,4 @@ Copy all files from plugin durectory to IDA plugin directory
 
 Open and parse any ELF file. Then click "Edit->Plugins->Export symbols to file"
 
+![Main dialog](/img/main.png)
